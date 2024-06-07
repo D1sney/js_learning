@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+}
+
+.main  {
+    display: block;
+    padding: 3em;
+    background-color: blueviolet;
+}
+
+.main input {
+    background-color: rgb(186, 241, 243);
+}
+
+.main span {
+    color: antiquewhite;
+    margin: 1em;
+}
+
+.main button {
+    color: burlywood;
+    background-color: chocolate;
+}
